@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 1.SPIKING 
 
-Attack vulnserver to Immunity debugger after running both of them as administrator.
+Attach vulnserver to Immunity debugger after running both of them as administrator.
  
 ![image](https://user-images.githubusercontent.com/61798852/125417641-2a6cc7ec-4351-4364-9e1b-9bae49ff7e85.png)
 
